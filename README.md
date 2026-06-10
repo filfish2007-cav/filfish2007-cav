@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Philip 👋
 
-<!--
-**filfish2007-cav/filfish2007-cav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst based in Bucharest, Romania.
+Currently building hands-on experience through real analytics projects.
 
-Here are some ideas to get you started:
+## 🛠 Stack
+- **SQL** — PostgreSQL, window functions, CTEs, multi-table JOINs
+- **Python** — OOP, data manipulation, JSON, FastAPI basics
+- **Tools** — Docker, DBeaver, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Project
+**Streaming Platform Analytics** — a Netflix-style SQL case study.
+Churn detection, content performance ranking, revenue breakdown by subscription plan.
+
+👉 [View project repo](#) ← сюда потом вставишь ссылку на репо с проектом
+
+## 🌍 Languages
+- English — C1 (IELTS)
+- Russian — Native
+- Romanian — Conversational
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/philip-rybkin-342b03309)
