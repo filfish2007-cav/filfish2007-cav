@@ -20,4 +20,4 @@ Churn detection, content performance ranking, revenue breakdown by subscription 
 - Romanian — Conversational
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/philip-rybkin-342b03309)
+www.linkedin.com/in/philip-rybkin-142b03309
